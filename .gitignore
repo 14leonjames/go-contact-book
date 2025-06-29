@@ -1,0 +1,8 @@
+# Go build cache
+bin/
+pkg/
+*.exe
+*.out
+*.test
+*.mod
+*.sum
